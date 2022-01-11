@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
+  },
+  "name": "team_profile_generator",
+  "description": "Writing a Team Profile Generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohoang2005/Team_Profile_Generator.git"
+  },
+  "author": "Chuong Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vohoang2005/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/vohoang2005/Team_Profile_Generator#readme"
+}
