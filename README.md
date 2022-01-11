@@ -41,6 +41,11 @@ THEN I exit the application, and the HTML is generated
 
 https://user-images.githubusercontent.com/37889335/149012757-76758d3e-228e-4538-85f6-7995f9fd28c0.mp4
 
+## This is the Index.html after the HTML is generated.
+
+https://user-images.githubusercontent.com/37889335/149013325-012abfcb-a9ac-48bc-bf9c-a922d69fc51c.mp4
+
+
 
 
 
