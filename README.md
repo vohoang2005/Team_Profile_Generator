@@ -37,6 +37,15 @@ THEN I exit the application, and the HTML is generated
 * Jest
 * VS Code
 
+## Installation, Download, and Run Process.
+* Setup your VS Code
+* Clone this Repo
+* Install NPM, Inquirer, and Jest
+* Run node index.js on Terminal
+* Fill out all the questions
+* Open the new created index.html under dist folder to see your results!
+
+
 ## Please watch the Videos below on how to use Team Profile Generator.
 
 https://user-images.githubusercontent.com/37889335/149012757-76758d3e-228e-4538-85f6-7995f9fd28c0.mp4
@@ -44,22 +53,5 @@ https://user-images.githubusercontent.com/37889335/149012757-76758d3e-228e-4538-
 ## This is the Index.html after the HTML is generated.
 
 https://user-images.githubusercontent.com/37889335/149013325-012abfcb-a9ac-48bc-bf9c-a922d69fc51c.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Created By: Chuong Vo
